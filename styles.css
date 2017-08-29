@@ -1,0 +1,46 @@
+body {
+    background: lightcyan;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Courier New", Courier, oblique;
+}
+
+nav ul {
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.about_nav {
+    font-size: 60px;
+}
+
+.about {
+    font-size: 30px;
+    text-align: left;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+iframe {
+    display: block;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 24px;
+}
